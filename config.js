@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
+global.vcardowner = ['62882006212045'] //ur owner number
+global.ownername = "Ramkha Offc" //ur owner name
+global.developer = "Ramkha Offc" //nama lu
+global.ytname = "YT: Foxxy offc" //ur yt chanel name
+global.socialm = "https://instagram.com/raka.ramadhan180108" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Jatim" //ur location
+global.location = "Jateng" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
+global.owner = ['62882006212045'] //ur number
+global.ownernomer = "62882006212045" //ur number
+global.ownertag = '62882006212045' //ur tag number
+global.premium = ['62882006212045'] //ur premium number
 global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
-global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
+global.ownername = "KhaTheTrojans"
+global.linkz = "https://www.youtube.com/@KhaTheHard" //your theme url which will be displayed on whatsapp
+global.dana = "62882006212045"
+global.pulsa = "62882006212045"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.wm = "Ramkhaa offc" //ur watermark
 
 // Other
 global.sessionName = 'Session'
